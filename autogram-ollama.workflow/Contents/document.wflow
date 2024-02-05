@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>MODEL = "mistral-grammar-checker:latest"
+					<string>MODEL = "mistral-grammar-checker"
 
 try:
     import ollama
@@ -190,7 +190,7 @@ except Exception as e:
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>673.000000:500.000000</string>
+				<string>673.000000:680.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
