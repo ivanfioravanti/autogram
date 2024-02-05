@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>MODEL = "mistral-grammar-checker"
+					<string>MODEL = "ifioravanti/mistral-grammar-checker"
 
 try:
     import ollama
